@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-formik/static/css/main.7acaea2f.css",
+    "main.js": "/test-formik/static/js/main.07d3183d.js",
+    "index.html": "/test-formik/index.html",
+    "main.7acaea2f.css.map": "/test-formik/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/test-formik/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
